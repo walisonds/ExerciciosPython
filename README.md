@@ -1,3 +1,3 @@
 # ExerciciosPython
 
-##Repositório voltado para exercícios envolvendo a linguagem python. 
+#Repositório voltado para exercícios envolvendo a linguagem python. 
